@@ -25,7 +25,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" width="42" title="Google Cloud"/> <a/>
 <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" width="42" title="Azure"/> <a/>
 <a href="https://www.cloudflare.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" width="42" title="Cloudflare"/> <a/>
-<a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.svg" width="42" title="Oracle Cloud"/> <a/>
+<a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud2.png" width="42" title="Oracle Cloud"/> <a/>
 
 
 #### Operational systems:
