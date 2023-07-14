@@ -1,16 +1,20 @@
-### Hi there 👋
+## My Profile:
 
-<!--
-**ldodev/ldodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Hello! my name is Rafael, I have a degree in Philosophy and I am majoring in Information Systems. 
 
-Here are some ideas to get you started:
+##### In ancient Greece, Athenian citizens gathered in the “agora”, a public space, where citizens had the opportunity to expose their ideas without being censored, because through the conflict with contradictory arguments, between thesis and antithesis, it emerged as a result the synthesis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### The Socratic method consists of, at first, leading the interlocutor to doubt his own knowledge on a given subject. And in the second moment, the interlocutor envisions new concepts, encouraging him to think for himself.
+
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,python,markdown)](https://skillicons.dev)
+
+#### Programs
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,mysql,sqlite)](https://skillicons.dev)
+
+#### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+#### Other
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,gitlab,aws)](https://skillicons.dev)
+
