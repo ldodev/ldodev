@@ -21,7 +21,12 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 #### Cloud Providers:
-[![My Skills](https://skillicons.dev/icons?i=oraclecloud,aws,gpc,azure,cloudflare)]()
+[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg)]()
+[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg)]()
+[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg)]()
+[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg)]()
+[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle.svg)]()
+
 
 #### Operational systems:
 [![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,redhat,windows,oracle)]()
