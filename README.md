@@ -1,3 +1,7 @@
+## Profile
+
+[https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg]
+
 ### About me
 
 Hello! my name is Rafael, I have a degree in Philosophy and I am majoring in Information Systems. 
