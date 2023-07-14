@@ -1,4 +1,4 @@
-## Profile
+# Profile
 
 Hello! my name is Rafael, I have a degree in Philosophy and I am majoring in Information Systems. 
 
