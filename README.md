@@ -21,11 +21,11 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 #### Cloud Providers:
-[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg)]()
-[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg)]()
-[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg)]()
-[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg)]()
-[![My Skills](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle.svg)]()
+[![AWS](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg=32px)](https://aws.amazon.com)
+[![Google Cloud](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg)]()
+[![Azure](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg)]()
+[![Cloudflare](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg)]()
+[![Oracle Cloud](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle.svg)]()
 
 
 #### Operational systems:
