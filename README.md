@@ -12,8 +12,10 @@ I use Arch Linux as the operating system for my personal workspace, and for prog
 
 I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orchestration, observability,  data science, code and infrastructure security. Recently I'm taking an interest in the various types of artificial intelligence.
 
-#### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,python,markdown)](https://skillicons.dev)
+### List of Things That I Use
+
+#### Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,python,html,css,js,markdown)](https://skillicons.dev)
 
 #### Programs
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,mysql,sqlite)](https://skillicons.dev)
