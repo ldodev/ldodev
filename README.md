@@ -15,7 +15,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 #### Programming Languages:
-[My Skills](https://skillicons.dev/icons?i=java,typescript,js,python,html,css,markdown)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,js,python,html,css,markdown)]()
 
 #### Operational systems:
 [![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,redhat,windows,oracle)]
