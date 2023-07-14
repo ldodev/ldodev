@@ -1,6 +1,6 @@
 # Profile
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
-[!https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg]
+
+[![profile](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)]()
 
 ### About me
 
