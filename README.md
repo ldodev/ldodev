@@ -21,11 +21,11 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 #### Cloud Providers:
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" width="62" title="AWS"/> <a/> {:target="_blank"}
-[![Google Cloud](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg)]()
-[![Azure](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg)]()
-[![Cloudflare](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg)]()
-[![Oracle Cloud](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle.svg)]()
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" width="60" title="AWS"/> <a/>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" width="60" title="Google Cloud"/> <a/>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" width="60" title="Azure"/> <a/>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" width="60" title="Cloudflare"/> <a/>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/OCI-Dark.svg" width="60" title="Oracle Cloud"/> <a/>
 
 
 #### Operational systems:
