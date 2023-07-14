@@ -21,7 +21,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 #### Cloud Providers:
-[<a href="https://aws.amazon.com" target="blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" width="62" title="AWS"/> <a/>]
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" width="62" title="AWS"/> <a/>
 [![Google Cloud](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg)]()
 [![Azure](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg)]()
 [![Cloudflare](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg)]()
