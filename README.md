@@ -15,14 +15,23 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 #### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,python,html,css,js,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,js,python,html,css,markdown)]
+
+### Operational systems:
+[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,redhat,windows,oracle)]
+
+### Cloud Providers:
+[![My Skills](https://skillicons.dev/icons?i=oci,aws,gpc,azure,cloudflare)]
+
+#### Orchestration and Pipeline CI/CD:
+[![My Skills](https://skillicons.dev/icons?i=githubactions,gitlab,terraform,ansible,kubernetes)]
 
 #### Programs
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,mysql,sqlite)]
 
 #### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)]
 
 #### Other
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,gitlab,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)]
 
