@@ -58,6 +58,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Nginx.svg" width="42" height="42" title="Nginx"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/MySQL-Dark.svg" width="42" height="42" title="MySQL"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Kafka.svg" width="42" height="42" title="Kafka"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/SQLite.svg" width="42" height="42" title="SQLite"/> <a/>
 
 #### Programming Languages:
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Java-Dark.svg" width="42" height="42" title="Java"/> <a/>
@@ -81,10 +82,15 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/TailwindCSS-Dark.svg" width="42" height="42" title="TailwindCSS"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Spring-Dark.svg" width="42" height="42" title="Spring"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/springboot.svg" width="42" height="42" title="Spring Boot"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Maven-Dark.svg" width="42" height="42" title="Maven"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/npm.svg" width="42" height="42" title="NPM"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/yarn.svg" width="42" height="42" title="Yarn"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/pip.svg" width="42" height="42" title="PIP"/> <a/>
 
 #### Programs
-<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/" width="42" height="42" title="Bash"/> <a/>
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,mysql,sqlite)]()
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/VSCode-Dark.svg" width="42" height="42" title="Visual Studio Code"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Eclipse-Dark.svg" width="42" height="42" title="Eclipse Java"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Postman.svg" width="42" height="42" title="Postman"/> <a/>
 
 
 
