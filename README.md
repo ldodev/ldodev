@@ -29,7 +29,13 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 
 #### Operational systems:
-[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,redhat,windows,oracle)]()
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/arch-linux.svg" width="42" title="Arch Linux"/> <a/>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/ubuntu.svg" width="42" title="Ubuntu Linux"/> <a/>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/redhat.svg" width="42" title="Redhat Linux"/> <a/>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/debian.svg" width="42" title="Debian Linux"/> <a/>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/alpine.svg" width="42" title="Alpine Linux"/> <a/>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-linux.svg" width="42" title="Oracle Linux"/> <a/>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/windows.svg" width="42" title="Windows 11"/> <a/>
 
 #### Orchestration, Pipeline CI/CD and Observability:
 [![My Skills](https://skillicons.dev/icons?i=githubactions,gitlab,terraform,ansible,kubernetes,docker,grafana,kibana,prometheus,)]()
