@@ -49,7 +49,6 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/kibana.svg" width="42" height="42" title="Kibana"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Prometheus.svg" width="42" height="42" title="Prometheus"/> <a/>
 
-[![My Skills](https://skillicons.dev/icons?i=githubactions,github,gitlab,terraform,ansible,kubernetes,docker,grafana,kibana,prometheus,)]()
 
 #### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,js,python,html,css,markdown)]()
