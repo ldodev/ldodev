@@ -60,7 +60,16 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Kafka.svg" width="42" height="42" title="Kafka"/> <a/>
 
 #### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,js,python,html,css,markdown)]()
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Java-Dark.svg" width="42" height="42" title="Java"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Python-Dark.svg" width="42" height="42" title="Python"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/JavaScript.svg" width="42" height="42" title="JavaScript"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/TypeScript.svg" width="42" height="42" title="TypeScript"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/HTML.svg" width="42" height="42" title="HTML"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/CSS.svg" width="42" height="42" title="CSS"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Markdown-Dark.svg" width="42" height="42" title="Markdown"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Kafka.svg" width="42" height="42" title="Kafka"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Bash-Dark.svg" width="42" height="42" title="Bash"/> <a/>
+
 
 #### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nodejs)]()
