@@ -26,6 +26,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" height="42" width="42" title="Azure"/> <a/>
 <a href="https://www.cloudflare.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" height="42" width="42" title="Cloudflare"/> <a/>
 <a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.png" height="42" width="42" title="Oracle Cloud"/> <a/>
+<a href="https://www.vercel.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Vercel-Dark.svg" height="42" width="42" title="Vercel"/> <a/>
 
 
 #### Operational systems:
@@ -49,6 +50,14 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/kibana.svg" width="42" height="42" title="Kibana"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Prometheus.svg" width="42" height="42" title="Prometheus"/> <a/>
 
+#### Servers (Web, Database, Message Brokers):
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Redis-Dark.svg" width="42" height="42" title="Redis"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/RabbitMQ-Dark.svg" width="42" height="42" title="RabbitMQ"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/MongoDB.svg" width="42" height="42" title="MongoDB"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/PostgreSQL-Dark.svg" width="42" height="42" title="PostgreSQL"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Nginx.svg" width="42" height="42" title="Nginx"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/MySQL-Dark.svg" width="42" height="42" title="MySQL"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Kafka.svg" width="42" height="42" title="Kafka"/> <a/>
 
 #### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,js,python,html,css,markdown)]()
