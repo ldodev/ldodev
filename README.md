@@ -21,11 +21,11 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 #### Cloud Providers:
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" width="42" title="AWS"/> <a/>
-<a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" width="42" title="Google Cloud"/> <a/>
-<a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" width="42" title="Azure"/> <a/>
-<a href="https://www.cloudflare.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" width="42" title="Cloudflare"/> <a/>
-<a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.png" width="42" title="Oracle Cloud"/> <a/>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>
+<a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" height="42" width="42" title="Google Cloud"/> <a/>
+<a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" height="42" width="42" title="Azure"/> <a/>
+<a href="https://www.cloudflare.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" height="42" width="42" title="Cloudflare"/> <a/>
+<a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.png" height="42" width="42" title="Oracle Cloud"/> <a/>
 
 
 #### Operational systems:
@@ -35,7 +35,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www.debian.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/debian.svg" width="42" height="42" title="Debian Linux"/> <a/>
 <a href="https://www.alpinelinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/alpine.svg" width="42" height="42" title="Alpine Linux"/> <a/>
 <a href="https://www.oracle.com/br/linux" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-linux.svg" width="42" height="42" title="Oracle Linux"/> <a/>
-<a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/windows.svg" width="42" title="Windows 11"/> <a/>
+<a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/windows.svg" width="42" height="42" title="Windows 11"/> <a/>
 
 #### Orchestration, Pipeline CI/CD and Observability:
 [![My Skills](https://skillicons.dev/icons?i=githubactions,gitlab,terraform,ansible,kubernetes,docker,grafana,kibana,prometheus,)]()
