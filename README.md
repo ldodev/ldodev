@@ -29,13 +29,13 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 
 #### Operational systems:
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/arch-linux.svg" width="42" title="Arch Linux"/> <a/>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/ubuntu.svg" width="42" title="Ubuntu Linux"/> <a/>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/redhat.svg" width="42" title="Redhat Linux"/> <a/>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/debian.svg" width="42" title="Debian Linux"/> <a/>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/alpine.png" width="42" title="Alpine Linux"/> <a/>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-linux.jpeg" width="42" title="Oracle Linux"/> <a/>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/windows.svg" width="42" title="Windows 11"/> <a/>
+<a href="https://archlinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/arch-linux.svg" width="42" height="42" title="Arch Linux"/> <a/>
+<a href="https://ubuntu.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/ubuntu.svg" width="42" height="42" title="Ubuntu Linux"/> <a/>
+<a href="https://www.redhat.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/redhat.svg" width="42" height="42" title="Red Hat Linux"/> <a/>
+<a href="https://www.debian.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/debian.svg" width="42" height="42" title="Debian Linux"/> <a/>
+<a href="https://www.alpinelinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/alpine.svg" width="42" height="42" title="Alpine Linux"/> <a/>
+<a href="https://www.oracle.com/br/linux" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-linux.svg" width="42" height="42" title="Oracle Linux"/> <a/>
+<a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/windows.svg" width="42" title="Windows 11"/> <a/>
 
 #### Orchestration, Pipeline CI/CD and Observability:
 [![My Skills](https://skillicons.dev/icons?i=githubactions,gitlab,terraform,ansible,kubernetes,docker,grafana,kibana,prometheus,)]()
