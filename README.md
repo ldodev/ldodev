@@ -21,7 +21,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 #### Cloud Providers:
-[! <a style="border:6px solid yellow; margin: 5px; color:red;" href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>]
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>
 <a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" height="42" width="42" title="Google Cloud"/> <a/>
 <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" height="42" width="42" title="Azure"/> <a/>
 <a href="https://www.cloudflare.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" height="42" width="42" title="Cloudflare"/> <a/>
@@ -38,10 +38,18 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/windows.svg" width="42" height="42" title="Windows 11"/> <a/>
 
 #### Orchestration, Pipeline CI/CD and Observability:
-[![My Skills](https://skillicons.dev/icons?i=githubactions,gitlab,terraform,ansible,kubernetes,docker,grafana,kibana,prometheus,)]()
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Github-Dark.svg" width="42" height="42" title="Github"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GithubActions-Dark.svg" width="42" height="42" title="Github Actions"/> <a/>
+<a href="https://www.gitlab.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GitLab-Dark.svg" width="42" height="42" title="Gitlab CI/CD"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/terraform.svg" width="42" height="42" title="Terraform"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Ansible.svg" width="42" height="42" title="Ansible"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Kubernetes.svg" width="42" height="42" title="Kubernetes"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Docker.svg" width="42" height="42" title="Docker"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Grafana-Dark.svg" width="42" height="42" title="Grafana"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/kibana.svg" width="42" height="42" title="Kibana"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Prometheus.svg" width="42" height="42" title="Prometheus"/> <a/>
 
-#### Programs
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,mysql,sqlite)]()
+[![My Skills](https://skillicons.dev/icons?i=githubactions,github,gitlab,terraform,ansible,kubernetes,docker,grafana,kibana,prometheus,)]()
 
 #### Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,js,python,html,css,markdown)]()
@@ -49,6 +57,8 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 #### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nodejs)]()
 
-#### Other
-[![My Skills](https://skillicons.dev/icons?i=github)]()
+#### Programs
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,mysql,sqlite)]()
+
+
 
