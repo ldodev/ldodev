@@ -33,8 +33,8 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/ubuntu.svg" width="42" title="Ubuntu Linux"/> <a/>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/redhat.svg" width="42" title="Redhat Linux"/> <a/>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/debian.svg" width="42" title="Debian Linux"/> <a/>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/alpine.svg" width="42" title="Alpine Linux"/> <a/>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-linux.svg" width="42" title="Oracle Linux"/> <a/>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/alpine.png" width="42" title="Alpine Linux"/> <a/>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-linux.jpeg" width="42" title="Oracle Linux"/> <a/>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/windows.svg" width="42" title="Windows 11"/> <a/>
 
 #### Orchestration, Pipeline CI/CD and Observability:
