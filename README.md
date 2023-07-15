@@ -91,7 +91,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/VSCode-Dark.svg" width="42" height="42" title="Visual Studio Code"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Eclipse-Dark.svg" width="42" height="42" title="Eclipse Java"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Postman.svg" width="42" height="42" title="Postman"/> <a/>
-<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/jupyter.svg" width="42" height="42" title="Jupyter Notebook"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Jupyter.svg" width="42" height="42" title="Jupyter Notebook"/> <a/>
 
 
 
