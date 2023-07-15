@@ -1,6 +1,6 @@
 
 
-[![profile](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)]()
+[![profile](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/github-contribution-grid-snake.svg)]()
 
 # Profile
 
@@ -67,14 +67,23 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/HTML.svg" width="42" height="42" title="HTML"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/CSS.svg" width="42" height="42" title="CSS"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Markdown-Dark.svg" width="42" height="42" title="Markdown"/> <a/>
-<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Kafka.svg" width="42" height="42" title="Kafka"/> <a/>
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Bash-Dark.svg" width="42" height="42" title="Bash"/> <a/>
 
 
-#### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nodejs)]()
+#### Frameworks and Libraries
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/ExpressJS-Dark.svg" width="42" height="42" title="ExpressJS"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/FastAPI.svg" width="42" height="42" title="FastAPI"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Flask-Dark.svg" width="42" height="42" title="Flask"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/NextJS-Dark.svg" width="42" height="42" title="NextJS"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/NodeJS-Dark.svg" width="42" height="42" title="NodeJS"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/React-Dark.svg" width="42" height="42" title="ReactJS"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Vite-Dark.svg" width="42" height="42" title="ViteJS"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/TailwindCSS-Dark.svg" width="42" height="42" title="TailwindCSS"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Spring-Dark.svg" width="42" height="42" title="Spring"/> <a/>
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/springboot.svg" width="42" height="42" title="Spring Boot"/> <a/>
 
 #### Programs
+<a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/" width="42" height="42" title="Bash"/> <a/>
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,linux,mysql,sqlite)]()
 
 
