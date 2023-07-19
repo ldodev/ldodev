@@ -45,13 +45,13 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 |  <b>Cloud Providers:</b> |
 |:--------------------------|
-
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" height="42" width="42" title="Google Cloud"/> <a/>
-  <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" height="42" width="42" title="Azure"/> <a/>
-  <a href="https://www.cloudflare.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" height="42" width="42" title="Cloudflare"/> <a/>
-  <a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.png" height="42" width="42" title="Oracle Cloud"/> <a/>
-  <a href="https://www.vercel.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Vercel-Dark.svg" height="42" width="42" title="Vercel"/> <a/>
+| |
+|  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/> |
+|  <a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" height="42" width="42" title="Google Cloud"/> <a/> |
+|  <a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" height="42" width="42" title="Azure"/> <a/> |
+|  <a href="https://www.cloudflare.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" height="42" width="42" title="Cloudflare"/> <a/> |
+|  <a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.png" height="42" width="42" title="Oracle Cloud"/> <a/> |
+|  <a href="https://www.vercel.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Vercel-Dark.svg" height="42" width="42" title="Vercel"/> <a/> |
 
 
 #### Operational systems:
