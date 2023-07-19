@@ -1,4 +1,9 @@
-
+<style>
+ul{
+width:400px; 
+border: black 3px solid;
+}
+</style>
 
 [![profile](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/github-contribution-grid-snake.svg)]()
 
@@ -42,27 +47,6 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <br> <br>
 
 ### List of Things That I Use
-
-<style>
-ul{
-width:400px; 
-border: black 3px solid;
-}
-</style>
-
----
-layout: two-cols
----
-
-::right::
-
-# Direita
-
-Isto é mostrado à direita
-
-::default::
-
-# Esquerda
 
 
 <div>
