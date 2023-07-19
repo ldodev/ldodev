@@ -44,7 +44,9 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 
-<div align="center" width="100">
+<div align="center" width="100%">
+
+  <div width="50%">
 <b>Cloud Providers:</b>
 
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>
@@ -54,12 +56,9 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
   <a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.png" height="42" width="42" title="Oracle Cloud"/> <a/>
   <a href="https://www.vercel.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Vercel-Dark.svg" height="42" width="42" title="Vercel"/> <a/>
 
-
 </div>
 
-
-
-
+<div width="50%">
 
 #### Operational systems:
 <a href="https://archlinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/arch-linux.svg" width="42" height="42" title="Arch Linux"/> <a/>
@@ -69,6 +68,9 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www.alpinelinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/alpine.png" width="42" height="42" title="Alpine Linux"/> <a/>
 <a href="https://www.oracle.com/br/linux" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-linux.jpeg" width="42" height="42" title="Oracle Linux"/> <a/>
 <a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/windows.svg" width="42" height="42" title="Windows 11"/> <a/>
+
+</div>
+</div>
 
 <br>
 
