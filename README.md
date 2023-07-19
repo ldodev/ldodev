@@ -33,7 +33,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <br>
 <br>
 
-<div align="center">
+<div align="center" >
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="950" title="Dunning Kruger Effect"/>
 
@@ -44,8 +44,8 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 
-<div align="center">
-#### Cloud Providers:
+<div align="center" width="100">
+<b>Cloud Providers:</b>
 
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>
   <a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" height="42" width="42" title="Google Cloud"/> <a/>
