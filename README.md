@@ -25,10 +25,12 @@ The Socratic method consists of, at first, leading the interlocutor to doubt his
 
 ### My Skills
 
+<p>
 I use Arch Linux as the operating system for my personal workspace, and for programming the Eclipse and Visual Studio Code IDEs. The programming languages I use are Java, Typescript and Python, using UML modeling. To publish my projects in a docker container, I use Oracle Cloud providers, AWS and Cloudflare.
 
-I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orchestration, observability,  data science, code and infrastructure security. Recently I'm taking an interest in the various types of artificial intelligence.
+I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orchestration, observability,  data science, code and infrastructure security. Recently I'm taking an interest in the various types of artificial intelligence.</p>
 
+<br>
 <br>
 
 <div align="center">
@@ -41,15 +43,22 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 ### List of Things That I Use
 
+<div>
 #### Cloud Providers:
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>
-<a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" height="42" width="42" title="Google Cloud"/> <a/>
-<a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" height="42" width="42" title="Azure"/> <a/>
-<a href="https://www.cloudflare.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" height="42" width="42" title="Cloudflare"/> <a/>
-<a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.png" height="42" width="42" title="Oracle Cloud"/> <a/>
-<a href="https://www.vercel.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Vercel-Dark.svg" height="42" width="42" title="Vercel"/> <a/>
+<ul>
+  <li><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/></li>
+  <li><a href="https://cloud.google.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/GCP-Dark.svg" height="42" width="42" title="Google Cloud"/> <a/></li>
+  <li><a href="https://azure.microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Azure-Dark.svg" height="42" width="42" title="Azure"/> <a/></li>
+  <li><a href="https://www.cloudflare.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Cloudflare-Dark.svg" height="42" width="42" title="Cloudflare"/> <a/></li>
+  <li><a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.png" height="42" width="42" title="Oracle Cloud"/> <a/></li>
+  <li><a href="https://www.vercel.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Vercel-Dark.svg" height="42" width="42" title="Vercel"/> <a/></li>
+</ul>
 
-<br>
+</div>
+
+
+
+
 
 #### Operational systems:
 <a href="https://archlinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/arch-linux.svg" width="42" height="42" title="Arch Linux"/> <a/>
