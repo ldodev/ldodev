@@ -50,6 +50,21 @@ border: black 3px solid;
 }
 </style>
 
+---
+layout: two-cols
+---
+
+::right::
+
+# Direita
+
+Isto é mostrado à direita
+
+::default::
+
+# Esquerda
+
+
 <div>
 #### Cloud Providers:
 <ul>
