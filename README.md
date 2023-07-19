@@ -58,7 +58,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 </div>
 
-<div width="50%" align="left">
+<div width="50%" align="right">
 
 #### Operational systems:
 <a href="https://archlinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/arch-linux.svg" width="42" height="42" title="Arch Linux"/> <a/>
