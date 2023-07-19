@@ -44,9 +44,9 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 ### List of Things That I Use
 
 
-<div align="center" width="100%">
+<div align="center" width="100%" heigth="100px">
 
-  <div width="50%">
+  <div width="50%" align="left">
 <b>Cloud Providers:</b>
 
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>
@@ -58,7 +58,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 </div>
 
-<div width="50%">
+<div width="50%" align="left">
 
 #### Operational systems:
 <a href="https://archlinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/arch-linux.svg" width="42" height="42" title="Arch Linux"/> <a/>
