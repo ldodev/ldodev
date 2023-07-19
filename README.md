@@ -11,7 +11,7 @@ Hello! my name is Rafael, I have a degree in Philosophy and I am majoring in Inf
 In ancient Greece, Athenian citizens gathered in the “agora”, a public space, where citizens had the opportunity to expose their ideas without being censored, because through the conflict with contradictory arguments, between thesis and antithesis, it emerged as a result the synthesis. 
 
 The Socratic method consists of, at first, leading the interlocutor to doubt his own knowledge on a given subject. And in the second moment, the interlocutor envisions new concepts, encouraging him to think for himself. 
-
+<br>
 <br>
 <div align="center">
   
@@ -19,6 +19,7 @@ The Socratic method consists of, at first, leading the interlocutor to doubt his
 
 </div>
 
+<br>
 <br>
 
 ### My Skills
@@ -29,7 +30,11 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <br>
 
-<img align="center" src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="800" title="Dunning Kruger Effect"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="800" title="Dunning Kruger Effect"/>
+
+</center>
 
 <br> <br>
 
