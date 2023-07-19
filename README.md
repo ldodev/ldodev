@@ -10,11 +10,13 @@ Hello! my name is Rafael, I have a degree in Philosophy and I am majoring in Inf
 
 In ancient Greece, Athenian citizens gathered in the “agora”, a public space, where citizens had the opportunity to expose their ideas without being censored, because through the conflict with contradictory arguments, between thesis and antithesis, it emerged as a result the synthesis. 
 
-The Socratic method consists of, at first, leading the interlocutor to doubt his own knowledge on a given subject. And in the second moment, the interlocutor envisions new concepts, encouraging him to think for himself.
+The Socratic method consists of, at first, leading the interlocutor to doubt his own knowledge on a given subject. And in the second moment, the interlocutor envisions new concepts, encouraging him to think for himself. 
+
+<br>
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="900" title="AGES Model"/>
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="950" title="Dunning Kruger Effect"/>
+<br>
 
 ### My Skills
 
@@ -22,8 +24,15 @@ I use Arch Linux as the operating system for my personal workspace, and for prog
 
 I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orchestration, observability,  data science, code and infrastructure security. Recently I'm taking an interest in the various types of artificial intelligence.
 
+<br>
+
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="950" title="Dunning Kruger Effect"/>
+
+<br>
 
 ### List of Things That I Use
+
+<br>
 
 #### Cloud Providers:
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>
