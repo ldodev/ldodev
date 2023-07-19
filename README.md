@@ -13,8 +13,11 @@ In ancient Greece, Athenian citizens gathered in the “agora”, a public space
 The Socratic method consists of, at first, leading the interlocutor to doubt his own knowledge on a given subject. And in the second moment, the interlocutor envisions new concepts, encouraging him to think for himself. 
 
 <br>
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="900" title="AGES Model"/>
 
-<img align="center" src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="900" title="AGES Model"/>
+</div>
 
 <br>
 
