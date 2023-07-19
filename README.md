@@ -12,7 +12,7 @@ In ancient Greece, Athenian citizens gathered in the “agora”, a public space
 
 The Socratic method consists of, at first, leading the interlocutor to doubt his own knowledge on a given subject. And in the second moment, the interlocutor envisions new concepts, encouraging him to think for himself.
 
-<center><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger" height="206" width="476" title="Dunning Kruger Effect"/></center> 
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger" height="206" width="476" title="Dunning Kruger Effect"/>
 
 ### My Skills
 
