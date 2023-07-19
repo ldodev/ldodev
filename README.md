@@ -14,7 +14,7 @@ The Socratic method consists of, at first, leading the interlocutor to doubt his
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="900" title="AGES Model"/>
+<img align="center" src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="900" title="AGES Model"/>
 
 <br>
 
@@ -26,13 +26,11 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <br>
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="950" title="Dunning Kruger Effect"/>
+<img align="center" src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="800" title="Dunning Kruger Effect"/>
 
-<br>
+<br> <br>
 
 ### List of Things That I Use
-
-<br>
 
 #### Cloud Providers:
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AWS-Dark.svg" height="42" width="42" title="AWS"/> <a/>
@@ -42,6 +40,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www.oracle.com/cloud" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-cloud.png" height="42" width="42" title="Oracle Cloud"/> <a/>
 <a href="https://www.vercel.com" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Vercel-Dark.svg" height="42" width="42" title="Vercel"/> <a/>
 
+<br>
 
 #### Operational systems:
 <a href="https://archlinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/arch-linux.svg" width="42" height="42" title="Arch Linux"/> <a/>
@@ -51,6 +50,8 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <a href="https://www.alpinelinux.org" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/alpine.png" width="42" height="42" title="Alpine Linux"/> <a/>
 <a href="https://www.oracle.com/br/linux" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/oracle-linux.jpeg" width="42" height="42" title="Oracle Linux"/> <a/>
 <a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/windows.svg" width="42" height="42" title="Windows 11"/> <a/>
+
+<br>
 
 #### Orchestration, Pipeline CI/CD and Observability:
 <a href="https://www" target="_blank"><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/Github-Dark.svg" width="42" height="42" title="Github"/> <a/>
