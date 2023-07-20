@@ -13,7 +13,7 @@
 In ancient Greece, Athenian citizens gathered in the “agora”, a public space, where citizens had the opportunity to expose their ideas without being censored, because through the conflict with contradictory arguments, between thesis and antithesis, it emerged as a result the synthesis. 
 
 The Socratic method consists of, at first, leading the interlocutor to doubt his own knowledge on a given subject. And in the second moment, the interlocutor envisions new concepts, encouraging him to think for himself. </p>
-
+<br>
 <br>
 <br>
 <div align="center">
@@ -24,6 +24,7 @@ The Socratic method consists of, at first, leading the interlocutor to doubt his
 
 <br>
 <br>
+<br>
 
 <h2> My Skills</h2>
 
@@ -32,6 +33,7 @@ I use Arch Linux as the operating system for my personal workspace, and for prog
 
 I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orchestration, observability,  data science, code and infrastructure security. Recently I'm taking an interest in the various types of artificial intelligence.</p>
 
+<br>
 <br>
 <br>
 
@@ -62,12 +64,19 @@ The philosopher Socrates mentioned, "I only know that I know nothing", because k
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill2.png" width="87%" title="My Skill"/>
 
 <br>
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill3.png" width="87%" title="My Skill"/>
 
 <br>
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill4.png" width="87%" title="My Skill"/>
+<br>
+<br>
+<br>
 
 </div>
 
