@@ -4,7 +4,7 @@
 
 # Profile
 
-### About me
+<h2> About me </h2>
 
 <p>Hello! my name is Rafael, I have a degree in Philosophy and I am majoring in Information Systems. 
 
@@ -16,14 +16,14 @@ The Socratic method consists of, at first, leading the interlocutor to doubt his
 <br>
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="90%" title="AGES Model"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="95%" title="AGES Model"/>
 
 </div>
 
 <br>
 <br>
 
-### My Skills
+<h2> My Skills</h2>
 
 <p>
 I use Arch Linux as the operating system for my personal workspace, and for programming the Eclipse and Visual Studio Code IDEs. The programming languages I use are Java, Typescript and Python, using UML modeling. To publish my projects in a docker container, I use Oracle Cloud providers, AWS and Cloudflare.
@@ -35,11 +35,11 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <div align="center" >
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="85%" title="Dunning Kruger Effect"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="80%" title="Dunning Kruger Effect"/>
 
 
 
-<br> <br>
+<br> <br> <br>
 
 <h2> List of Things That I Use </h2>
 
