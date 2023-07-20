@@ -43,7 +43,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <b> List of Things That I Use </b>
 
-<a><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill1.png" width="80%" title="My Skill"/> </a>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill1.png" width="80%" title="My Skill"/> 
 
 
 
