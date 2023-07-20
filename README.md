@@ -46,7 +46,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 <h2> List of Things That I Use </h2>
 
 The philosopher Socrates mentioned, "I only know that I know nothing", because knowledge is similar to a river, and when we limit that river, by saying that we know everything, it is that we know nothing. Knowledge is continuous, we are learning all the time until the end of our lives. About the things I use in my day to day, some of these programming languages, operating systems, servers, frameworks and others, I have a basic level and others an intermediate level, but I am always studying and perfecting my knowledge.
-
+<br>
 <br>
 
 <div align="center" >
