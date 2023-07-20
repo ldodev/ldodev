@@ -18,7 +18,7 @@ The Socratic method consists of, at first, leading the interlocutor to doubt his
 <br>
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="95%" title="AGES Model"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="100%" title="AGES Model"/>
 
 </div>
 
@@ -37,7 +37,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <div align="center" >
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="80%" title="Dunning Kruger Effect"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="78%" title="Dunning Kruger Effect"/>
 
 
 
@@ -45,19 +45,19 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <h2> List of Things That I Use </h2>
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill1.png" width="90%" title="My Skill"/> 
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill1.png" width="87%" title="My Skill"/> 
 
 
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill2.png" width="90%" title="My Skill"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill2.png" width="87%" title="My Skill"/>
 
 
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill3.png" width="90%" title="My Skill"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill3.png" width="87%" title="My Skill"/>
 
 
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill4.png" width="90%" title="My Skill"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill4.png" width="87%" title="My Skill"/>
 
 </div>
 
