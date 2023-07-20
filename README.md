@@ -39,7 +39,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="78%" title="Dunning Kruger Effect"/>
 
-
+</div>
 
 <br> <br> <br>
 
@@ -59,6 +59,6 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill4.png" width="87%" title="My Skill"/>
 
-</div>
+
 
 
