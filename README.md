@@ -1,8 +1,10 @@
 
 
-[![profile](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/github-contribution-grid-snake.svg)]()
-
 <h1> Profile </h1>
+
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/github-contribution-grid-snake.svg" width="100%" title="Animation"/>
+
+
 
 <h2> About me </h2>
 
