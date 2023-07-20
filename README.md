@@ -2,6 +2,8 @@
 
 <h1> Profile </h1>
 
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/slime.svg" width="100%" title="Animation"/>
+
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/github-contribution-grid-snake.svg" width="100%" title="Animation"/>
 
 
