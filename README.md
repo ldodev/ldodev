@@ -2,7 +2,6 @@
 
 <h1> Profile </h1>
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/slime.svg" width="100%" title="Animation"/>
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/github-contribution-grid-snake.svg" width="100%" title="Animation"/>
 
@@ -20,7 +19,7 @@ The Socratic method consists of, at first, leading the interlocutor to doubt his
 <br>
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="100%" title="AGES Model"/>
+<img  src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="100%" title="AGES Model"/>
 
 </div>
 
@@ -41,7 +40,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <div align="center" >
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="78%" title="Dunning Kruger Effect"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="79%" title="Dunning Kruger Effect"/>
 
 </div>
 
@@ -52,32 +51,24 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 The philosopher Socrates mentioned, "I only know that I know nothing", because knowledge is similar to a river, and when we limit that river, by saying that we know everything, it is that we know nothing. Knowledge is continuous, we are learning all the time until the end of our lives. About the things I use in my day to day, some of these programming languages, operating systems, servers, frameworks and others, I have a basic level and others an intermediate level, but I am always studying and perfecting my knowledge.
 <br>
 <br>
-<br>
 
 <div align="center" >
   
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill1.png" width="100%" title="My Skill"/> 
 
 <br>
-<br>
-<br>
+
 
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill2.png" width="100%" title="My Skill"/>
 
 <br>
-<br>
-<br>
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill3.png" width="100%" title="My Skill"/>
 
 <br>
-<br>
-<br>
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill4.png" width="100%" title="My Skill"/>
-<br>
-<br>
 <br>
 
 </div>
