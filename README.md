@@ -16,7 +16,7 @@ The Socratic method consists of, at first, leading the interlocutor to doubt his
 <br>
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="950" title="AGES Model"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/AGES_Model.png" width="80%" title="AGES Model"/>
 
 </div>
 
@@ -37,11 +37,11 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="80%" title="Dunning Kruger Effect"/>
 
-</div>
+
 
 <br> <br>
 
-### List of Things That I Use
+<b> List of Things That I Use </b>
 
 <a><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill1.png" width="80%" title="My Skill"/> </a>
 
@@ -57,6 +57,6 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill4.png" width="80%" title="My Skill"/>
 
-
+</div>
 
 
