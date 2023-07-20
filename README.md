@@ -35,7 +35,7 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 <div align="center" >
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="950" title="Dunning Kruger Effect"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/dunning-kruger.jpeg" width="80%" title="Dunning Kruger Effect"/>
 
 </div>
 
@@ -43,19 +43,19 @@ I'm interested in backend development, cloud infrastructure, CI/CD pipeline, orc
 
 ### List of Things That I Use
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill1.png" width="80%" title="My Skill"/>
+<a><img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill1.png" width="80%" title="My Skill"/> </a>
 
 
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill2.png" width="100%" title="My Skill"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill2.png" width="80%" title="My Skill"/>
 
 
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill3.png" width="100%" title="My Skill"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill3.png" width="80%" title="My Skill"/>
 
 
 
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill4.png" width="100%" title="My Skill"/>
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill4.png" width="80%" title="My Skill"/>
 
 
 
