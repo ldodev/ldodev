@@ -2,7 +2,7 @@
 
 [![profile](https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/github-contribution-grid-snake.svg)]()
 
-# Profile
+<h1> Profile </h1>
 
 <h2> About me </h2>
 
