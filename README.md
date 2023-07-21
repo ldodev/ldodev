@@ -54,7 +54,7 @@ The philosopher Socrates mentioned, "I only know that I know nothing", because k
 
 <div align="left" >
   
-<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill.png" width="100%" title="My Skill"/> 
+<img src="https://raw.githubusercontent.com/ldodev/ldodev/main/assets/img/my-skill-transparent" width="100%" title="My Skill"/> 
 
 
 
